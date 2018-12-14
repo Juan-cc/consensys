@@ -1,1 +1,1 @@
-# consensys
+# consensys certification exercises
